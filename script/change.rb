@@ -1,3 +1,4 @@
+require 'bigdecimal'
 class Change
   def initialize
     @input = 3788.77
